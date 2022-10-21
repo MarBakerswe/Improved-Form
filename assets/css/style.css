@@ -39,12 +39,17 @@ h1 {
 
 h5 {
     color: #777;
+    margin-top: 5px;
+    margin-bottom: 15px;
+
 }
 
 input,
 select {
     width: 100%;
     display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 legend {
@@ -72,4 +77,9 @@ label {
 
 .required-field {
     color: red;
+}
+
+.formspace{
+    margin-top: 10px;
+    margin-bottom: 15px;
 }
